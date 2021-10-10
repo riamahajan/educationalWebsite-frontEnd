@@ -759,8 +759,9 @@ footer dl, ol, ul {
 }
 
  .login-box{
-  width: 95%; 
+  width: 100%; 
   height: 400px;
+  margin: auto 50px;
  }
 
 .copyright {
